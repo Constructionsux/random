@@ -1,0 +1,353 @@
+/* media.css */
+
+/* Styles for phone size (max-width: 600px) */
+@media only screen and (max-width: 600px) {
+.up-showcase-back-nav{
+    padding-right: 0px;
+}
+
+.up-showcase-back-nav nav .up-showcase-back-nav-p {
+    height: 40px;
+    width: 150px;
+    position: relative;
+    top: 50px;
+    right: 170px;
+}
+
+.up-showcase-back-nav nav .up-showcase-back-nav-p p{
+    font-size: 10px;
+}
+
+.up-showcase-back-nav nav .up-showcase-back-nav-image{
+    position: relative;
+    left: unset;
+    right: 150px;
+    top: 20px;
+}
+
+.up-showcase-back-nav nav .up-showcase-back-nav-image img{
+    width: 80px;
+    height: 70px;
+}
+
+.up-showcase-back-nav nav .up-showcase-back-nav-info{
+    position: relative;
+    left: unset;
+    right: 110px;
+    top: 20px;
+    font-size: 15px;
+}
+
+.up-showcase-back-nav nav .up-showcase-back-nav-info a .request{
+    height: 40px;
+    width: 170px;
+    font-size: 15px;
+}
+
+.showcase-navbar{
+
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+}
+
+.showcase-navbar nav ul li a{
+    padding: 6px;
+    font-size: 11px;
+    font-weight: bolder;
+}
+
+.showcase-navbar nav ul.under-list li a{
+    font-size: 10px;
+}
+
+.showcase-navbar nav ul .services{
+    position: relative;
+    left: 10px;
+}
+
+.showcase-navbar nav ul .about{
+    position: relative;
+    left: 0px;
+}
+
+.showcase-navbar nav ul .contact{
+    position: relative;
+    right: 20px;
+}
+
+.showcase-main .showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt{
+    height: 30px;
+    width: 500px;
+    position: relative;
+    right: 160px;
+}
+
+.showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt h1{
+    font-size: 20px;
+}
+
+.showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt h3{
+    font-size: 12px;
+    position: relative;
+    right: 50px;
+}
+
+.showcase-main-display .showcase-main-display-text .showcase-main-display-text-cnt{
+    width: 300px;
+    margin: unset;
+    position: relative;
+    top: 70px;
+    right: 110px;
+}
+
+.showcase-main-display .showcase-main-display-text .showcase-main-display-text-cnt a{
+    font-size: 25px;
+}
+
+.up-showcase .showcase-main .showcase-main-display .showcase-main-display-form{
+    position: relative;
+    left: unset;
+    right: 600px;
+    background-color: rgba(27, 27, 27, 0.938);
+    display: none;
+}
+
+.up-showcase .showcase-main .showcase-main-display .showcase-main-display-form button{
+    display: block;
+}
+
+.showcase-icon .showcase-icon-main{
+    position: absolute;
+    left: 520px;
+}
+
+/* UP-SHOWCASE-2 */
+.up-showcase-2{
+    height: 300px;
+}
+
+.up-showcase-2 .up-showcase-2-main{
+    position: relative;
+    left: 10px;
+    top: 40px;
+}
+
+.up-showcase-2 .up-showcase-2-main .up-showcase-2-main-h1{
+    width: 400px;
+    position: relative;
+    left: 30px;
+}
+
+.up-showcase-2 .up-showcase-2-main .up-showcase-2-main-h1 h1{
+    font-size: 20px;
+}
+
+.up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt p{
+    font-size: 13px;
+    font-weight: light;
+}
+
+.up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt{
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+.up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt .up-showcase-2-main-txt2{
+    position: relative;
+    left: 10px;
+    width: 200px;
+}
+
+.up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt .up-showcase-2-main-txt1{
+    position: relative;
+    right: 10px;
+    width: 200px;
+}
+
+/* UP-SHOWCASE-3 */
+.up-showcase-3{
+    height: 600px;
+}
+
+
+.up-showcase-3 .up-showcase-3-main{
+    position: relative;
+    left: 0px;
+    top: 25px;
+
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-h1{
+    width: 500px;
+    text-align: center;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-h1 h1{
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-main-display-txt{
+    width: 300px;
+    position: relative;
+    left: 20px;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-main-display-txt p{
+    font-size: 13px;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-main-display-txt2{
+    position: relative;
+    top: 15px;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-right{
+    position: relative;
+    left: 20px;
+    width: 180px;
+    text-align: center;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-right p{
+    font-size: 13px;
+
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-right p i{
+    font-size: 20px;
+}
+
+.up-showcase-3 .up-showcase-3-main .up-showcase-3-main-request .request{
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+    position: relative;
+    left: 100px;
+    top: 70px;
+}
+
+/* UP-SHOWCASE-4 */
+.up-showcase-4 .up-showcase-4-main{
+    position: relative;
+    left: unset;
+    right: 10px;
+}
+
+.up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+}
+
+.up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div1{
+    height: 250px;
+    width: 230px;
+    background-color: rgb(15, 65, 34);
+    border-radius: 5px;
+}
+
+.up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div2{
+    height: 250px;
+    width: 230px;
+    background-color: rgb(15, 65, 34);
+    position: unset;
+}
+
+.up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div3{
+    height: 250px;
+    width: 230px;
+    background-color: rgb(15, 65, 34);
+    position: unset;
+}
+
+.up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div4{
+    height: 250px;
+    width: 230px;
+    background-color: rgb(15, 65, 34);
+    position: unset;
+}
+
+.up-showcase-4-main-flex .up-showcase-4-main-flex-div-i svg{
+    width: 70px;
+    height: 70px;
+
+}
+
+.up-showcase-4-main-flex  .up-showcase-4-main-flex-div-txt h3{
+    font-size: 20px;
+}
+
+.up-showcase-4-main-flex .up-showcase-4-main-flex-div-i a {
+    font-size: 25px;
+    position: unset;
+    top: 10px;
+}
+
+/* down-showcase-1 */
+.down-showcase-1{
+    height: 1000px;
+}
+
+.down-showcase-1 .down-showcase-1-main{
+    position: unset;
+    left: 0px;
+
+}
+
+.down-showcase-1 .down-showcase-1-main .down-showcase-1-main-txt h2{
+    color: #fff;
+    font-size: 20px;
+    position: unset;
+    right: 370px;
+}
+
+.down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul {
+    display: grid;
+    grid-template-rows: 1fr 1fr  ;
+    grid-template-columns: 1fr 1fr ;
+    gap: 6px;
+}
+
+.down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul li img{
+    
+    width: 200px;
+    height: 200px;
+}
+
+.down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul .sp1,
+.down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul .sp2,
+.down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul .sp3{
+    position: unset;
+    bottom: 200px;
+}
+
+/* down-showcase-2 */
+.down-showcase-2 .down-showcase-2-main .down-showcase-2-main-txt h2{
+    font-size: 20px;
+    position: unset;
+    left: 20px;
+}
+
+.down-showcase-2 .down-showcase-2-main .down-showcase-2-main-cnt a .request{
+    height: 40px;
+    width: 180px;
+    padding-top: 7px;
+    position: relative;
+    left: 10px;
+    top: 40px;
+}
+
+.down-showcase-2 .down-showcase-2-main2-cnt{
+    width: 450px;
+    height: 455px;
+    background-color: rgba(17, 44, 29, 0.788);
+    position: relative;
+    left: 40px;
+    padding: 30px;
+}
+
+}
