@@ -9,7 +9,7 @@ body{
 
 .up-showcase-back-nav{
     padding-right: 0px;
-    width:300px;
+    width:350px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p {
@@ -154,6 +154,7 @@ body{
 /* UP-SHOWCASE-2 */
 .up-showcase-2{
     height: 420px;
+    width:350px;
     overflow: hidden;
 }
 
@@ -203,6 +204,7 @@ body{
 /* UP-SHOWCASE-3 */
 .up-showcase-3{
     height: 1000px;
+    width:350px;
     overflow: hidden;
 }
 
@@ -269,6 +271,7 @@ body{
 
 /* UP-SHOWCASE-4 */
 .up-showcase-4 .up-showcase-4-main{
+     width:350px;
     position: relative;
     left: unset;
     right: 20px;
@@ -336,6 +339,7 @@ body{
 /* down-showcase-1 */
 .down-showcase-1{
     height: 1000px;
+     width:350px;
 }
 
 .down-showcase-1 .down-showcase-1-main{
@@ -373,6 +377,10 @@ body{
 }
 
 /* down-showcase-2 */
+    .down-showcase-2{
+        width:350px;
+    }
+    
 .down-showcase-2 .down-showcase-2-main .down-showcase-2-main-txt h2{
     font-size: 15px;
     position: relative;
@@ -391,8 +399,8 @@ body{
 }
 
 .down-showcase-2 .down-showcase-2-main2{
-    height: 600px;
-    width: 400px;
+    height: 700px;
+    width: 350px;
 }
 
 .down-showcase-2 .down-showcase-2-main2-cnt{
@@ -400,7 +408,7 @@ body{
     height: 590px;
     background-color: rgba(17, 44, 29, 0.788);
     position: relative;
-    left: 10px;
+    left: 20px;
     padding: 30px;
 }
 .down-showcase-2 .down-showcase-2-main2-cnt .down-showcase-2-main2-container-ht{
