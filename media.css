@@ -4,6 +4,7 @@
 @media only screen and (max-width: 600px) {
 body{
     overflow-x: hidden;
+    max-width: 400px;
 }
 
 .up-showcase-back-nav{
@@ -309,7 +310,7 @@ body{
 }
 
 .up-showcase-4-main-flex-div-txt h3 span{
-    font-size: 18px;
+    font-size: 16px;
     position: relative;
     top: 0px;
     width: 200px;
@@ -385,16 +386,17 @@ body{
     position: relative;
     left: unset;
     right: 30px;
-    top: 20px;
+    top: 40px;
 }
 
 .down-showcase-2 .down-showcase-2-main2{
     height: 600px;
+    width: 400px;
 }
 
 .down-showcase-2 .down-showcase-2-main2-cnt{
     width: 320px;
-    height: 550px;
+    height: 590px;
     background-color: rgba(17, 44, 29, 0.788);
     position: relative;
     left: 10px;
@@ -508,6 +510,10 @@ body{
     height: 80px;
 }
 
+.down-showcase-3 .down-showcase-3-main2 {
+    width: 400px;
+}
+
 
 .down-showcase-3 .down-showcase-3-main2 .down-showcase-3-main2-cnt{
     width: 200px;
@@ -531,7 +537,7 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main3{
-    width: 4500px;
+    width: 400px;
     height: 800px;
     overflow: hidden;
 }
