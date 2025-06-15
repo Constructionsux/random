@@ -4,11 +4,12 @@
 @media only screen and (max-width: 600px) {
 body{
     overflow-x: hidden;
-    max-width: 400px;
+    max-width: 350px;
 }
 
 .up-showcase-back-nav{
     padding-right: 0px;
+    width:300px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p {
