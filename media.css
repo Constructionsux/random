@@ -8,52 +8,55 @@
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p {
     height: 40px;
-    width: 150px;
+    width: 100px;
     position: relative;
     top: 50px;
     right: 170px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p p{
-    font-size: 10px;
+    font-size: 8px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-image{
     position: relative;
     left: unset;
-    right: 150px;
+    right: 160px;
     top: 20px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-image img{
-    width: 80px;
-    height: 70px;
+    width: 70px;
+    height: 60px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-info{
     position: relative;
     left: unset;
-    right: 110px;
+    right: 140px;
     top: 20px;
     font-size: 15px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-info a .request{
+    padding-top: 10px;
     height: 40px;
-    width: 170px;
-    font-size: 15px;
+    width: 140px;
+    font-size: 13px;
 }
 
 .showcase-navbar{
-
+    width: 360px;
     position: relative;
     bottom: 70px;
-    left: 10px;
+    left: unset;
+    right: 0px;
 }
 
+
 .showcase-navbar nav ul li a{
-    padding: 6px;
-    font-size: 11px;
+    padding: 4px;
+    font-size: 10px;
     font-weight: bolder;
 }
 
@@ -80,25 +83,26 @@
     height: 30px;
     width: 500px;
     position: relative;
-    right: 160px;
+    right: 130px;
+    top: 50px;
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt h1{
-    font-size: 20px;
+    font-size: 14px;
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt h3{
-    font-size: 12px;
+    font-size: 10px;
     position: relative;
-    right: 50px;
+    right: 90px;
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-cnt{
     width: 300px;
     margin: unset;
     position: relative;
-    top: 70px;
-    right: 110px;
+    top: 100px;
+    right: 120px;
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-cnt a{
@@ -106,20 +110,39 @@
 }
 
 .up-showcase .showcase-main .showcase-main-display .showcase-main-display-form{
+    height: 390px;
+    width: 350px;
     position: relative;
     left: unset;
-    right: 600px;
+    right: 650px;
     background-color: rgba(27, 27, 27, 0.938);
     display: none;
 }
 
+.up-showcase .showcase-main .showcase-main-display .showcase-main-display-form h1{
+    font-size: 20px;
+}
+
+
+.showcase-main-display .showcase-main-display-form .showcase-main-display-form-main form input{
+    width: 300px;
+    height: 40px;
+}
+
+.showcase-main-display-form .showcase-main-display-form-main form select{
+    width: 300px;
+}
+
 .up-showcase .showcase-main .showcase-main-display .showcase-main-display-form button{
     display: block;
+    position: relative;
+    top: 10px;
+    right: 50px;
 }
 
 .showcase-icon .showcase-icon-main{
     position: absolute;
-    left: 520px;
+    left: 345px;
 }
 
 /* UP-SHOWCASE-2 */
