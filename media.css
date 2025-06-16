@@ -4,24 +4,24 @@
 @media only screen and (max-width: 600px) {
 body{
     overflow-x: hidden;
-    max-width: 380px;
+    max-width: 610px;
 }
 
 .up-showcase-back-nav{
     padding-right: 0px;
-    width: 350px;
+    width: 400px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p {
     height: 40px;
-    width: 100px;
+    width: 150px;
     position: relative;
     top: 50px;
     right: 170px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p p{
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-image{
@@ -39,7 +39,7 @@ body{
 .up-showcase-back-nav nav .up-showcase-back-nav-info{
     position: relative;
     left: unset;
-    right: 140px;
+    right: 130px;
     top: 20px;
     font-size: 15px;
 }
@@ -52,7 +52,7 @@ body{
 }
 
 .showcase-navbar{
-    width: 360px;
+    width: 420px;
     position: relative;
     bottom: 70px;
     left: unset;
@@ -94,7 +94,7 @@ body{
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt h1{
-    font-size: 14px;
+    font-size: 17px;
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-abt h3{
@@ -148,12 +148,12 @@ body{
 
 .showcase-icon .showcase-icon-main{
     position: absolute;
-    left: 335px;
+    left: 400px;
 }
 
 /* UP-SHOWCASE-2 */
 .up-showcase-2{
-    height: 420px;
+    height: 450px;
     overflow: hidden;
 }
 
@@ -164,24 +164,25 @@ body{
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-h1{
-    width: 350px;
+    width: 390px;
     position: relative;
     left: unset;
-    right: 10px;
+    right: 0px;
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-h1 h1{
-    font-size: 19px;
+    font-size: 20px
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt p{
-    font-size: 14px;
+    font-size: 15px;
     font-weight: light;
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt{
+    width: 390px;
     position: relative;
-    left: 40px;
+    left: 60px;
     top: 10px;
     display: flex;
     flex-direction: column;
@@ -215,10 +216,10 @@ body{
 }
 
 .up-showcase-3 .up-showcase-3-main .up-showcase-3-main-h1{
-    width: 400px;
+    width: 410px;
     text-align: center;
     position: relative;
-    right: 40px;
+    right: 20px;
 }
 
 .up-showcase-3 .up-showcase-3-main .up-showcase-3-main-h1 h1{
@@ -244,8 +245,8 @@ body{
 .up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-right{
     position: relative;
     top: 150px;
-    left: 20px;
-    width: 180px;
+    left: 30px;
+    width: 220px;
     text-align: center;
 }
 
@@ -271,7 +272,7 @@ body{
 .up-showcase-4 .up-showcase-4-main{
     position: relative;
     left: unset;
-    right: 20px;
+    right: 10px;
 }
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex{
@@ -283,14 +284,14 @@ body{
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div1{
     height: 240px;
-    width: 150px;
+    width: 170px;
     background-color: rgb(15, 65, 34);
     border-radius: 5px;
 }
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div2{
     height: 240px;
-    width: 150px;
+    width: 170px;
     background-color: rgb(15, 65, 34);
     position: unset;
 }
@@ -298,14 +299,14 @@ body{
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div3{
     height: 240px;
-    width: 150px;
+    width: 170px;
     background-color: rgb(15, 65, 34);
     position: unset;
 }
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex .up-showcase-4-main-flex-div4{
     height: 240px;
-    width: 150px;
+    width: 170px;
     background-color: rgb(15, 65, 34);
     position: unset;
 }
@@ -347,7 +348,7 @@ body{
 
 .down-showcase-1 .down-showcase-1-main .down-showcase-1-main-txt h2{
     color: #fff;
-    font-size: 16px;
+    font-size: 18px;
     position: unset;
     right: 400px;
 }
@@ -387,12 +388,12 @@ body{
     position: relative;
     left: unset;
     right: 10px;
-    top: 60px;
+    top: 40px;
 }
 
 .down-showcase-2 .down-showcase-2-main2{
-    height: 600px;
-    width: 380px;
+    height: 650px;
+    width: 450px;
 }
 
 .down-showcase-2 .down-showcase-2-main2-cnt{
@@ -400,7 +401,7 @@ body{
     height: 590px;
     background-color: rgba(17, 44, 29, 0.788);
     position: relative;
-    left: 10px;
+    left: 50px;
     padding: 30px;
 }
 .down-showcase-2 .down-showcase-2-main2-cnt .down-showcase-2-main2-container-ht{
@@ -423,7 +424,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 625px;
-    width: 380px;
+    width: 450px;
 }
 
 .down-showcase-2 .down-showcase-2-main3 .down-showcase-2-main3-cnt{
@@ -439,23 +440,20 @@ body{
 .down-showcase-2 .down-showcase-2-main3 .down-showcase-2-main3-cnt .down-showcase-2-main3-cnt-container1{
     position: relative;
     right: unset;
-    left: 30px;
+    left: 40px;
 }
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-ht h3{
     font-size: 20px;
-}
-.down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-txt{
-    height: 50px;
-    width: 260px;
+    width: 350px;
 }
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-txt p{
     height: 50px;
-    width: 260px;
-    font-size: 13px;
+    width: 350px;
+    font-size: 15px;
     position: relative;
-    bottom: 30px;
+    bottom: 50px;
 }
 
 
@@ -469,17 +467,17 @@ body{
 
 .down-showcase-2 .down-showcase-2-main3 .down-showcase-2-main3-cnt .down-showcase-2-main3-cnt-container2{
     position: relative;
-    left: 30px;
+    left: 40px;
     top: 70px;
 }
 
 .down-showcase-2 .down-showcase-2-main3 .down-showcase-2-main3-cnt .down-showcase-2-main3-cnt-container2 img{
-   width: 280px;
+   width: 300px;
    height: 180px;
 }
 
 .down-showcase-3 .down-showcase-3-main{
-    width: 380px;
+    width: 650px;
     height: 120px;
 }
 
@@ -493,7 +491,8 @@ body{
     height: 80px;
     padding: 20px;
     position: relative;
-    right: 30px;
+    left: unset;
+    right: 130px;
 }
 
 .down-showcase-3 .down-showcase-3-main .down-showcase-3-main-cnt .down-showcase-3-main-cnt-container img{
@@ -512,7 +511,7 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main2 {
-    width: 380px;
+    width: 650px;
 }
 
 
@@ -523,7 +522,7 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main2 .down-showcase-3-main2-cnt .down-showcase-3-main2-cnt-txt{
-    width: 300px;
+    width: 360px;
     height: 40px;
     text-align: center;
     position: relative;
@@ -534,11 +533,11 @@ body{
 .down-showcase-3-main2 .down-showcase-3-main2-cnt .down-showcase-3-main2-cnt-txt p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .down-showcase-3 .down-showcase-3-main3{
-    width: 380px;
+    width: 650px;
     height: 800px;
     overflow: hidden;
 }
@@ -550,7 +549,7 @@ body{
     flex-direction: column;
     position: relative;
     top: 50px;
-    left: 60px;
+    left: 100px;
 }
 
 .down-showcase-3-main3-cnt-container-flex-2{
@@ -567,7 +566,7 @@ body{
 }
 
 footer .footer-main{
-    width: 350px;
+    width: 450px;
     height: 20px;
     color: #fff;
 }
