@@ -7,6 +7,14 @@ body{
     max-width: 600px;
 }
 
+
+.up-showcase{
+    width: 570px;
+    height: 690px;
+    overflow-x: hidden;
+}
+
+    
 .up-showcase-back-nav{
     padding-right: 0px;
     width: 570px;
