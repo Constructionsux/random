@@ -1,45 +1,45 @@
 /* media.css */
 
 /* Styles for phone size (max-width: 600px) */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 620px) {
 body{
     overflow-x: hidden;
-    max-width: 610px;
+    max-width: 600px;
 }
 
 .up-showcase-back-nav{
     padding-right: 0px;
-    width: 400px;
+    width: 570px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p {
     height: 40px;
-    width: 150px;
+    width: 200px;
     position: relative;
     top: 50px;
-    right: 170px;
+    right: 160px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-p p{
-    font-size: 10px;
+    font-size: 13px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-image{
     position: relative;
     left: unset;
-    right: 160px;
+    right: 130px;
     top: 20px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-image img{
-    width: 70px;
-    height: 60px;
+    width: 90px;
+    height: 80px;
 }
 
 .up-showcase-back-nav nav .up-showcase-back-nav-info{
     position: relative;
     left: unset;
-    right: 130px;
+    right: 90px;
     top: 20px;
     font-size: 15px;
 }
@@ -52,22 +52,22 @@ body{
 }
 
 .showcase-navbar{
-    width: 420px;
+    width: 540px;
     position: relative;
     bottom: 70px;
-    left: unset;
-    right: 0px;
+    left: 0px;
+
 }
 
 
 .showcase-navbar nav ul li a{
     padding: 4px;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bolder;
 }
 
 .showcase-navbar nav ul.under-list li a{
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .showcase-navbar nav ul .services{
@@ -89,7 +89,7 @@ body{
     height: 30px;
     width: 500px;
     position: relative;
-    right: 130px;
+    right: 100px;
     top: 50px;
 }
 
@@ -108,7 +108,7 @@ body{
     margin: unset;
     position: relative;
     top: 100px;
-    right: 120px;
+    right: 100px;
 }
 
 .showcase-main-display .showcase-main-display-text .showcase-main-display-text-cnt a{
@@ -148,23 +148,24 @@ body{
 
 .showcase-icon .showcase-icon-main{
     position: absolute;
-    left: 400px;
+    left: 520px;
 }
 
 /* UP-SHOWCASE-2 */
 .up-showcase-2{
     height: 450px;
+    width: 550px;
     overflow: hidden;
 }
 
 .up-showcase-2 .up-showcase-2-main{
     position: relative;
-    left: 10px;
+    left: 50px;
     top: 40px;
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-h1{
-    width: 390px;
+    width: 450px;
     position: relative;
     left: unset;
     right: 0px;
@@ -175,14 +176,15 @@ body{
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt p{
-    font-size: 15px;
+      width: 400px;
+    font-size: 17px;
     font-weight: light;
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt{
-    width: 390px;
+    width: 450px;
     position: relative;
-    left: 60px;
+    left: 20px;
     top: 10px;
     display: flex;
     flex-direction: column;
@@ -203,14 +205,15 @@ body{
 
 /* UP-SHOWCASE-3 */
 .up-showcase-3{
-    height: 1000px;
+    height: 800px;
     overflow: hidden;
+    width: 570px;
 }
 
 
 .up-showcase-3 .up-showcase-3-main{
     position: relative;
-    left: 0px;
+    left: 40px;
     top: 25px;
 
 }
@@ -228,7 +231,7 @@ body{
 }
 
 .up-showcase-3 .up-showcase-3-main .up-showcase-3-main-display .up-showcase-3-main-display-txt{
-    width: 150px;
+    width: 200px;
     position: relative;
     left: 20px;
 }
@@ -265,11 +268,12 @@ body{
     font-size: 15px;
     position: relative;
     left: 100px;
-    top: 70px;
+    top: 100px;
 }
 
 /* UP-SHOWCASE-4 */
 .up-showcase-4 .up-showcase-4-main{
+    width: 570px;
     position: relative;
     left: unset;
     right: 10px;
@@ -336,13 +340,13 @@ body{
 
 /* down-showcase-1 */
 .down-showcase-1{
-    height: 1000px;
+    height: 800px;
+    width: 570px;
 }
 
 .down-showcase-1 .down-showcase-1-main{
     position: relative;
-    left: unset;
-    right: 20px;
+    left: 30px;
 
 }
 
@@ -374,11 +378,15 @@ body{
 }
 
 /* down-showcase-2 */
+.down-showcase-2 {
+    width: 570px;
+}
+
+
 .down-showcase-2 .down-showcase-2-main .down-showcase-2-main-txt h2{
     font-size: 15px;
     position: relative;
     left: unset;
-    right:20px;
 }
 
 .down-showcase-2 .down-showcase-2-main .down-showcase-2-main-cnt a .request{
@@ -386,19 +394,18 @@ body{
     width: 150px;
     padding-top: 7px;
     position: relative;
-    left: unset;
-    right: 10px;
-    top: 40px;
+    left: 60px ;
+    top: 20px;
 }
 
 .down-showcase-2 .down-showcase-2-main2{
     height: 650px;
-    width: 450px;
+    width: 570px;
 }
 
 .down-showcase-2 .down-showcase-2-main2-cnt{
-    width: 320px;
-    height: 590px;
+    width: 400px;
+    height: 550px;
     background-color: rgba(17, 44, 29, 0.788);
     position: relative;
     left: 50px;
@@ -408,14 +415,14 @@ body{
     color: #fff;
     position: relative;
     top: 10px;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .down-showcase-2 .down-showcase-2-main2-cnt .down-showcase2-main2-container-txt p{
-    width: 250px;
+    width: 300px;
     color: #fff;
     position: relative;
-    top: 10px;
+    top: 20px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
 }
@@ -424,13 +431,13 @@ body{
     display: flex;
     flex-direction: column;
     height: 625px;
-    width: 450px;
+    width: 570px;
 }
 
 .down-showcase-2 .down-showcase-2-main3 .down-showcase-2-main3-cnt{
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 400px;
     height: 311px;
     position: relative;
     top: 0px;
@@ -445,20 +452,20 @@ body{
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-ht h3{
     font-size: 20px;
-    width: 350px;
+    width: 400px;
 }
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-txt p{
     height: 50px;
     width: 350px;
-    font-size: 15px;
+    font-size: 16px;
     position: relative;
     bottom: 50px;
 }
 
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-cnt a .request{
-    width: 200px;
+    width: 250px;
     height: 45px;
     font-size: 16px;
     position: relative;
@@ -477,31 +484,32 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main{
-    width: 650px;
+    width: 670px;
     height: 120px;
 }
 
 .down-showcase-3 .down-showcase-3-main .down-showcase-3-main-cnt{
-    width: 200px;
+    width: 400px;
     height: 80px;
 }
 
 .down-showcase-3 .down-showcase-3-main .down-showcase-3-main-cnt .down-showcase-3-main-cnt-container{
-    width: 200px;
+    width: 400px;
     height: 80px;
     padding: 20px;
     position: relative;
     left: unset;
-    right: 130px;
+    right: 80px;
+
 }
 
 .down-showcase-3 .down-showcase-3-main .down-showcase-3-main-cnt .down-showcase-3-main-cnt-container img{
-    width: 120px;
+    width: 150px;
     height: 60px;
 }
 
 .down-showcase-3 .down-showcase-3-main .down-showcase-3-main-cnt .down-showcase-3-main-cnt-container a{
-    width: 110px;
+    width: 150px;
     height: 60px;
 }
 
@@ -516,13 +524,13 @@ body{
 
 
 .down-showcase-3 .down-showcase-3-main2 .down-showcase-3-main2-cnt{
-    width: 200px;
+    width: 400px;
     height: 56px;
    text-align: center;
 }
 
 .down-showcase-3 .down-showcase-3-main2 .down-showcase-3-main2-cnt .down-showcase-3-main2-cnt-txt{
-    width: 360px;
+    width: 450px;
     height: 40px;
     text-align: center;
     position: relative;
@@ -533,7 +541,7 @@ body{
 .down-showcase-3-main2 .down-showcase-3-main2-cnt .down-showcase-3-main2-cnt-txt p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .down-showcase-3 .down-showcase-3-main3{
@@ -549,7 +557,7 @@ body{
     flex-direction: column;
     position: relative;
     top: 50px;
-    left: 100px;
+    left: 150px;
 }
 
 .down-showcase-3-main3-cnt-container-flex-2{
