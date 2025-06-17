@@ -183,7 +183,7 @@ body{
 }
 
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt p{
-      width: 400px;
+    width: 400px;
     font-size: 17px;
     font-weight: light;
 }
@@ -191,7 +191,7 @@ body{
 .up-showcase-2 .up-showcase-2-main .up-showcase-2-main-txt{
     width: 450px;
     position: relative;
-    left: 20px;
+    left: 40px;
     top: 10px;
     display: flex;
     flex-direction: column;
@@ -229,7 +229,7 @@ body{
     width: 410px;
     text-align: center;
     position: relative;
-    right: 20px;
+    left: 10px;
 }
 
 .up-showcase-3 .up-showcase-3-main .up-showcase-3-main-h1 h1{
@@ -282,7 +282,7 @@ body{
 .up-showcase-4 .up-showcase-4-main{
     width: 570px;
     position: relative;
-    left: 30px;
+    left: 50px;
 }
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex{
@@ -353,6 +353,7 @@ body{
 .down-showcase-1 .down-showcase-1-main{
     position: relative;
     left: 20px;
+    width: 500px;
 
 }
 
@@ -360,14 +361,14 @@ body{
     color: #fff;
     font-size: 18px;
     position: unset;
-    right: 400px;
+    right: 308px;
 }
 
 .down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul {
     display: grid;
-    grid-template-rows: 1fr 1fr  ;
-    grid-template-columns: 1fr 1fr ;
-    gap: 5px;
+    grid-template-columns: 1fr 1fr;
+
+    
 }
 
 .down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul li img{
@@ -422,6 +423,7 @@ body{
     position: relative;
     top: 10px;
     font-size: 16px;
+    width: 400px;
 }
 
 .down-showcase-2 .down-showcase-2-main2-cnt .down-showcase2-main2-container-txt p{
@@ -436,7 +438,7 @@ body{
 .down-showcase-2 .down-showcase-2-main3{
     display: flex;
     flex-direction: column;
-    height: 625px;
+    height: 655px;
     width: 570px;
 }
 
@@ -458,12 +460,12 @@ body{
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-ht h3{
     font-size: 20px;
-    width: 400px;
+    width: 500px;
 }
 
 .down-showcase-2-main3-cnt-container1 .down-showcase-2-main3-cnt-container1-txt p{
     height: 50px;
-    width: 350px;
+    width: 400px;
     font-size: 16px;
     position: relative;
     bottom: 50px;
@@ -485,8 +487,8 @@ body{
 }
 
 .down-showcase-2 .down-showcase-2-main3 .down-showcase-2-main3-cnt .down-showcase-2-main3-cnt-container2 img{
-   width: 300px;
-   height: 180px;
+   width: 400px;
+   height: 200px;
 }
 
 .down-showcase-3 .down-showcase-3-main{
@@ -540,7 +542,7 @@ body{
     text-align: center;
     position: relative;
     top: 10px;
-    left: 30px;
+    left: 50px;
 }
 
 .down-showcase-3-main2 .down-showcase-3-main2-cnt .down-showcase-3-main2-cnt-txt p{
