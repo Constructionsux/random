@@ -2,19 +2,20 @@
 
 /* Styles for phone size (max-width: 600px) */
 @media only screen and (max-width: 620px) {
+*{
+    max-width: 100%;
+}
+
 body{
     overflow-x: hidden;
     max-width: 600px;
 }
-
-
 .up-showcase{
     width: 570px;
     height: 690px;
     overflow-x: hidden;
 }
 
-    
 .up-showcase-back-nav{
     padding-right: 0px;
     width: 570px;
@@ -284,7 +285,6 @@ body{
     width: 570px;
     position: relative;
     left: unset;
-    right: 10px;
 }
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex{
@@ -492,7 +492,7 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main{
-    width: 670px;
+    width: 570px;
     height: 120px;
 }
 
@@ -527,7 +527,7 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main2 {
-    width: 650px;
+    width: 570px;
 }
 
 
@@ -553,7 +553,7 @@ body{
 }
 
 .down-showcase-3 .down-showcase-3-main3{
-    width: 650px;
+    width: 570px;
     height: 800px;
     overflow: hidden;
 }
@@ -579,6 +579,10 @@ body{
     position: relative;
     top: 170px;
     right: 0px;
+}
+
+footer{
+    width: 570px;
 }
 
 footer .footer-main{
