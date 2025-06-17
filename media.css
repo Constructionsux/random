@@ -127,7 +127,7 @@ body{
     width: 350px;
     position: relative;
     left: unset;
-    right: 630px;
+    right: 530px;
     background-color: rgba(27, 27, 27, 0.938);
     display: none;
 }
@@ -282,8 +282,7 @@ body{
 .up-showcase-4 .up-showcase-4-main{
     width: 570px;
     position: relative;
-    left: unset;
-    right: 10px;
+    left: 30px;
 }
 
 .up-showcase-4 .up-showcase-4-main .up-showcase-4-main-flex{
@@ -353,7 +352,7 @@ body{
 
 .down-showcase-1 .down-showcase-1-main{
     position: relative;
-    left: 30px;
+    left: 20px;
 
 }
 
@@ -368,7 +367,7 @@ body{
     display: grid;
     grid-template-rows: 1fr 1fr  ;
     grid-template-columns: 1fr 1fr ;
-    gap: 6px;
+    gap: 5px;
 }
 
 .down-showcase-1 .down-showcase-1-main .down-showcase-1-main-pic ul li img{
